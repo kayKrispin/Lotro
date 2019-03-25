@@ -3,7 +3,7 @@
     "id": 0,
     "name": "The Lord of the Rings: The Fellowship of the Ring",
     "year": "2001",
-    "image": "./images/1.jpg",
+    "image": "https://github.com/kayKrispin/Lotro/raw/master/lotrojson/images/1.jpg",
     "info": " The Lord of the Rings: The Fellowship of the Ring is a 2001 epic fantasy adventure film directed by Peter Jackson based on the first volume of J. R. R. Tolkien's The Lord of the Rings.[5][6][7] It is the first instalment in The Lord of the Rings series, and was followed by The Two Towers (2002) and The Return of the King (2003), based on the second and third volumes of The Lord of the Rings."
   },
   {
